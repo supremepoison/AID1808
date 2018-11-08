@@ -1,0 +1,99 @@
+阶段总结1
+
+
+
+
+数据类型:
+    不可变数据类型:
+        bool
+        int
+        float
+        complex
+        str
+        tuple
+        frozenset
+        bytes
+    可变数据类型:
+        list
+        dict
+        set
+        bytearray
+
+运算符:
+    + - * / // % **
+    > >= < <= == !=
+    is / is not
+    in / not in
+    not /and / or
+    & ^ |
+    +(正号)  -(符号)
+    []  索引/切片
+
+表达式
+    1
+    1 + 2
+    max(1,2,3) + max(4,5,6)
+    print("hello")
+    条件表达式   x if x > y else y
+    全部的推到式:   列表,字典,集合推到式(三种)
+
+语句:
+    表达式语句
+        print("hello")
+    赋值语句:
+        a = 100
+        a = b = c = 200
+        x, y =100, 200
+    del         语句
+    if          语句
+    whiile      语句
+    for         语句
+    break       语句
+    continue     语句
+    pass        语句  
+内建函数:
+    -用于容器的函数
+        len(x)         
+        max(x)         
+        min(x)         
+        sum(x)          
+        any(x)          
+        all(x)
+
+    - 构造函数
+        int(x)
+        bool(x)
+        float(x)
+        complex(x)
+        str(x)
+        list(x)
+        tuple(x)
+        dict(x)
+        set(x)
+        frozenset(x)
+
+    - 数值处理函数
+        abs(x)
+        round(x)
+        pow(x,y, z = None)
+
+    - 进制字符串
+        bin(x)
+        oct(x)
+        hex(x)
+    - 编码转换
+        chr(x)
+        ord(x)
+    - 返回可迭代对象的函数
+        range(start, stop, step)
+        reversed(x)
+    - 输入输出函数:
+        input()
+        print(...., step =' ', end = '\n')
+    - 其他
+        id(x)
+        type(x)
+
+
+
+        

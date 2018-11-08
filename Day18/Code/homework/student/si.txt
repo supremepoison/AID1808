@@ -1,0 +1,21 @@
+2,3,4
+5,6,7
+2,3,4
+2,3,4
+2,3,4
+5,6,7
+2,3,4
+2,3,4
+3,4,5
+2,3,4
+5,6,7
+2,3,4
+2,3,4
+2,3,4
+5,6,7
+2,3,4
+2,3,4
+3,4,5
+2,<bound method Student.get_age of <student.Student object at 0x7f571310dc50>>,<bound method Student.get_score of <student.Student object at 0x7f571310dc50>>
+2,<bound method Student.get_age of <student.Student object at 0x7f2a08fdac88>>,<bound method Student.get_score of <student.Student object at 0x7f2a08fdac88>>
+12,<bound method Student.get_age of <student.Student object at 0x7fd4be978c50>>,<bound method Student.get_score of <student.Student object at 0x7fd4be978c50>>
